@@ -1,0 +1,20 @@
+# ALl
+.env
+
+# client
+/src/client/node_modules
+/src/client/build
+
+# server
+/src/server/node_modules
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
